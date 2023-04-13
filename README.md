@@ -31,3 +31,30 @@ The attribute descriptions as follows:
 **flight_duration** = total duration of flight (in hours)
 
 **booking_complete** = flag indicating if the customer completed the booking
+
+CONCLUSION:
+
+#observation -1
+
+->We can  say that there are 50000 records in the dataset.i.e 50000 customer data is available.
+
+->On an average the duration of the flight journey is around 7.2 hours.
+
+->On an average the passengers are booking their tickets 84 days before,their travel date.
+
+->We can say  that the average number of days that the passenger spent at destination is around 23 days.
+
+#observation 2
+
+Out of 50000 passengers, 44382 passengers booked their tickets over an internet.
+
+Remaining 5618 passengers booked their tickets on mobile .
+
+#obsevation 3
+
+***Most of the bookings happened from Australia  and second highest bookings are from Malaysia.
+
+#observation 4
+
+From the above graph ,we can say that most of the predictive power is rests with the attribute called "Purchase _load"
+
