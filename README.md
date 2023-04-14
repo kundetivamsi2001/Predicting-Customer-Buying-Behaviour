@@ -59,6 +59,8 @@ Remaining 5618 passengers booked their tickets on mobile .
 ***Most of the bookings happened from Australia  and second highest bookings are from Malaysia.
 
 #observation 4
+
+
 ![alt text](https://github.com/kundetivamsi2001/Predicting-Customer-Buying-Behaviour/blob/main/predict.png?raw=true)
 
 From the above graph ,we can say that most of the predictive power is rests with the attribute called "Purchase _load"
