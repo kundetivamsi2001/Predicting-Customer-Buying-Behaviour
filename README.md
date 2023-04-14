@@ -45,6 +45,7 @@ CONCLUSION:
 ->We can say  that the average number of days that the passenger spent at destination is around 23 days.
 
 #observation 2
+![alt text](https://github.com/kundetivamsi2001/Predicting-Customer-Buying-Behaviour/blob/main/mobile_net.png?)
 
 Out of 50000 passengers, 44382 passengers booked their tickets over an internet.
 
